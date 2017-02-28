@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="app_ch">unchecked</string>
+    <string name="app_ch1">选中</string>
+    <string name="app_ch2">未选中</string>
+    <string name="app_male">男</string>
+    <string name="app_female">女</string>
+</resources>
